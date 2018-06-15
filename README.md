@@ -6,5 +6,6 @@ Once installed, Capistrano gives you a cap tool to perform your deployments from
 ```
   $ cd my-capistrano-enabled-project
   $ cap production deploy
+  
 ```
 When you run cap, Capistrano dutifully connects to your server(s) via SSH and executes the steps necessary to deploy your project.
